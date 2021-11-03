@@ -3,6 +3,8 @@ Project 1 for Foundations of Computing COMP10001, a sampling done on biodiversit
 
 There were a total of 4 questions, each tackling different problems involving species richness, species eveness, comparing habitats, and finally sampling of the habitat data.
 
+Running the different functions would yield the following results
+
 ```
 >>> get_species_richness(['magpie', 'magpie', 'cockatoo', 'lyrebird', 'cockatoo', 'lyrebird', 'bellbird'])
 (4, ['bellbird', 'cockatoo', 'lyrebird', 'magpie'])
@@ -35,3 +37,7 @@ There were a total of 4 questions, each tackling different problems involving sp
 >>> optimise_study(sample_data, 2, 1)
 (4, 0.6428571428571429)
 ```
+
+# Results
+ 
+ Final Mark: 91.167 %
